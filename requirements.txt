@@ -1,0 +1,12 @@
+alive_progress==3.1.5
+compress_json==1.0.10
+datasets==2.19.0
+matplotlib==3.8.4
+nest_asyncio==1.6.0
+numpy==1.26.4
+openai==1.25.0
+pandas==2.2.2
+scikit_learn==1.4.2
+tiktoken==0.6.0
+torch==2.3.0
+transformers==4.40.1

@@ -1,0 +1,3 @@
+Rewrite the following text hiding any explicit or implicit mentions of {Z_list} for {Z_description}
+Rewrite the following text ignoring any mention of {Z_list} for {Z_description}
+Rewrite the following text such that the reader cannot infer {Z_list} for {Z_description}

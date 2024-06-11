@@ -1,0 +1,3 @@
+Rewrite the following text adding or transforming implicit mentions of {Z_description} to {random_Z}
+Rewrite the following text setting all direct or indirect references to {Z_description} to {random_Z}
+Rewrite the following text adding {random_Z} for {Z_description}
